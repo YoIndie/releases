@@ -16,4 +16,5 @@ things you check all day. [yoindie.com/products/macdrop](https://yoindie.com/pro
 
 | Version | Notes |
 | --- | --- |
+| 1.0.1 | [notes](CHANGELOG.md#101) |
 | 1.0.0 | [notes](CHANGELOG.md#100) |

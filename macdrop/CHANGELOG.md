@@ -1,5 +1,10 @@
 # MacDrop changelog
 
+## 1.0.1
+
+- Sales: connecting a store now shows its sales straight away, for Stripe, Shopify, Dodo Payments, Polar and Razorpay. Before, the numbers only appeared after switching tabs.
+- Sales: disconnecting a store updates the store list and Settings at once, and disconnecting the last one returns to the welcome screen.
+
 ## 1.0.0
 
 - First release.
