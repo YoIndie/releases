@@ -8,9 +8,11 @@ things you check all day. [yoindie.com/products/macdrop](https://yoindie.com/pro
   [Releases](https://github.com/YoIndie/releases/releases?q=macdrop), tagged `macdrop-v<version>`.
 - **Requires:** macOS 14 or later.
 - **License:** activate with the key from your purchase email. One license, one Mac.
+- **Install:** open the disk image and double-click **Install MacDrop**. It puts MacDrop in
+  Applications and opens it.
 - **First launch:** macOS may say it cannot check the developer. Open System Settings →
-  Privacy & Security and click **Open Anyway**. You only do this once; updates install
-  without asking again.
+  Privacy & Security, click **Open Anyway**, then double-click Install MacDrop again. You only
+  do this once; updates install without asking again.
 
 ## Versions
 
